@@ -38,6 +38,7 @@
             // 
             // lvShowText
             // 
+            this.lvShowText.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lvShowText.HideSelection = false;
             this.lvShowText.Location = new System.Drawing.Point(29, 56);
             this.lvShowText.Name = "lvShowText";
