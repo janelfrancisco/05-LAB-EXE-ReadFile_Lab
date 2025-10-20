@@ -44,11 +44,12 @@
             // 
             // btnOpen
             // 
+            this.btnOpen.Font = new System.Drawing.Font("Ebrima", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOpen.Location = new System.Drawing.Point(235, 318);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(107, 34);
             this.btnOpen.TabIndex = 2;
-            this.btnOpen.Text = "button1";
+            this.btnOpen.Text = "Open";
             this.btnOpen.UseVisualStyleBackColor = true;
             // 
             // openFileDialog1
