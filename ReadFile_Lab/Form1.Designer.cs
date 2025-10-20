@@ -36,7 +36,7 @@
             // lvShowText
             // 
             this.lvShowText.HideSelection = false;
-            this.lvShowText.Location = new System.Drawing.Point(30, 22);
+            this.lvShowText.Location = new System.Drawing.Point(30, 27);
             this.lvShowText.Name = "lvShowText";
             this.lvShowText.Size = new System.Drawing.Size(510, 238);
             this.lvShowText.TabIndex = 1;
@@ -45,7 +45,7 @@
             // btnOpen
             // 
             this.btnOpen.Font = new System.Drawing.Font("Ebrima", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOpen.Location = new System.Drawing.Point(235, 318);
+            this.btnOpen.Location = new System.Drawing.Point(229, 311);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(107, 34);
             this.btnOpen.TabIndex = 2;
@@ -60,7 +60,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(568, 395);
+            this.ClientSize = new System.Drawing.Size(569, 396);
             this.Controls.Add(this.btnOpen);
             this.Controls.Add(this.lvShowText);
             this.Name = "FrmOpenTextFile";
